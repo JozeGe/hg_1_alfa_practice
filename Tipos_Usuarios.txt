@@ -1,0 +1,6 @@
+ # Tipo de usuarios
+ Alfa
+ Bravo 
+ Charlie
+ Delta
+ Echo
